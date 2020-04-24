@@ -1,12 +1,3 @@
-**[JavaInterview](https://github.com/OUYANGSIHAI/JavaInterview)** 是本人在备战春招及这几年学习的知识沉淀，这里面有很多都是自己的原创文章，同时，也有很多是本在备战春招的过程中觉得对面试特别有帮助的文章，**[JavaInterview](https://github.com/OUYANGSIHAI/JavaInterview)** 不一定可以帮助你进入到 BAT 等大厂，但是，如果你认真研究，仔细思考，我相信你也可以跟我一样幸运的进入到腾讯等大厂。
-
-本人经常在 CSDN 写博客，累计**原创博客 400+**，拥有**访问量160W**，目前是 **CSDN 博客专家**，春招目前拿到了腾讯等大厂offer。
-
-如果觉得有帮助，给个 **star** 好不好，哈哈（目前还不是很完善，后面会一一补充）。
-
-**JavaInterview 最新地址**：https://github.com/OUYANGSIHAI/JavaInterview
-
-**一起冲！！！**
 
 <a href="https://github.com/OUYANGSIHAI/JavaInterview" target="_blank">
 	<div align="center"> <img src="http://image.ouyangsihai.cn/FvyAZ0ZEHmgrETnvhsJDHioiqs9e" width = 500 height = 300 /> </div>
